@@ -1,6 +1,6 @@
 # CalmPal: Your Mental Health Companion
 
-![CalmPal Banner](https://images.app.goo.gl/Be4ouZ1LP11hF21n7)  
+![CalmPal Banner](https://images.app.goo.gl/rHpbzbceCgvJaL8g6)  
 *Providing a safe and supportive space for emotional well-being*
 
 ## 🌿🧠☺️ About CalmPal
