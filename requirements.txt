@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+pandas
+openai
+textblob
+numpy
+scikit-learn
+nltk
+Pillow
