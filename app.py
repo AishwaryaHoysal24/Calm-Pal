@@ -161,7 +161,7 @@ set_background("Background1.jpeg")
 # ============ Header =============
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.image("logo.jpg", width=90)
+    st.image("Logo.jpg", width=90)
 
 st.markdown('<div class="title-text">CalmPal</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle-text">Because your mental health matters 💜</div>', unsafe_allow_html=True)
