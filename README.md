@@ -12,7 +12,7 @@
 | Layer        | Tech Used                     |
 |--------------|-------------------------------|
 | 👩‍🎨 Frontend   | HTML5, Tailwind CSS, JavaScript |
-| 🔧 Backend    | Flask (Python)               |
+| 🔧 Backend    | Streamlit (Python)               |
 | 🧠 AI Model   | Gemini / GPT-style responses via Google Generative AI API |
 | 🌐 Hosting    | Streamlit |
 
