@@ -22,7 +22,7 @@
 
 - 🤖 Friendly chatbot UI with real-time responses
 - 🕐 Message timestamps like a real chat app
-- 🔒 No data stored — user privacy by design
+- 🔒 No data stored - user privacy by design
 ---
 
 ## 📁 Project Structure
@@ -35,7 +35,7 @@ CalmPal/
 ├── templates/
 │   ├── index.html            # Chat UI
 ├── app.py                    # Flask backend logic
-├── .env                      # API Key config (DO NOT UPLOAD)
+├── .env                      # API Key config
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 ```
