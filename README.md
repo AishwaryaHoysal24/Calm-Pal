@@ -14,7 +14,6 @@
 | 👩‍🎨 Frontend   | HTML5, Tailwind CSS, JavaScript |
 | 🔧 Backend    | Streamlit (Python)               |
 | 🧠 AI Model   | Gemini / GPT-style responses via Google Generative AI API |
-| 🌐 Hosting    | Streamlit |
 
 ---
 
